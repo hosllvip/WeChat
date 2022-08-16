@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>icons_outlined_close</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="icons_outlined_close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="common_icons_close" fill="#000000">
-            <polygon id="Rectangle-47" points="12.25 10.6931818 6.05681818 4.5 5 5.55681818 11.1931818 11.75 5 17.9431818 6.05681818 19 12.25 12.8068182 18.4431818 19 19.5 17.9431818 13.3068182 11.75 19.5 5.55681818 18.4431818 4.5"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" version="1.1" viewBox="0 0 24 24"><title>icons_outlined_close</title><desc>Created with Sketch.</desc><g id="icons_outlined_close" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="common_icons_close" fill="#000"><polygon id="Rectangle-47" points="12.25 10.693 6.057 4.5 5 5.557 11.193 11.75 5 17.943 6.057 19 12.25 12.807 18.443 19 19.5 17.943 13.307 11.75 19.5 5.557 18.443 4.5"/></g></g></svg>
